@@ -1,0 +1,45 @@
+#markdown learn
+##1. 代码块
+<!--0-->
+	for(int i=0;i++;i<10)
+	{
+	print(i);
+	}
+	
+##2. 超链接
+###2.1 图片链接
+![GitHub Mark](http://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Mark.png "GitHub Mark")
+###2.2 文字链接
+[markdown简明语法|不如 博客链接](http://bruce-sha.github.io "不如的博客")
+###2.3 索引链接
+[不如][1]
+![GitHub Octocat][2]
+
+[1]:http://bruce-sha.github.io
+[2]:http://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png
+
+##3. 转义字符
+>markdown中的转义字符
+
+- \\\反斜杠
+-  \\'反引号
+-  \\*星号
+-  \\_下划线
+-  \\+加号
+
+
+__其余基本类似__ **网上还有括号等转义**
+请看[不知博客](http://ibruce.info/2013/11/26/markdown/)
+
+##4. 嵌套
+- 4.1 嵌套1
+- 4.2 嵌套2
+    - 4.2.1 嵌套3
+    - 4.2.2 嵌套4
+         - 4.2.2.1 嵌套5
+         - 4.2.2.2 嵌套6
+- 4.3 嵌套7
+
+##5.推荐软件
+[马克飞象](http://maxiang.info/)<!--印象笔记专用-->
+
